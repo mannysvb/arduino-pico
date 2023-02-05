@@ -88,6 +88,7 @@ target_link_libraries(pico
 	pico_multicore
 	pico_platform
 	pico_runtime
+	pico_sleep
 	pico_standard_link
 	pico_stdlib
 	pico_unique_id
